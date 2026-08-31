@@ -30,6 +30,9 @@ p{
     text-align: justify;
     font-size: 20px;
 }
+p{
+    font-weight: bold;
+}
 div{
     text-align: center;
 }
