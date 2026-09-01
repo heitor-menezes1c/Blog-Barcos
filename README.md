@@ -1,1 +1,1 @@
-# Blog-Barcos
+Meu Blog tem a intenção de comparilhar o conhecimento sobre o barco Endurance e sua tripulação.
